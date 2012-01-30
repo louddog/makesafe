@@ -1,10 +1,11 @@
 <?php
 /*
 Plugin Name: Make Safe
-Plugin URI: http://www.louddog.com
-Description: Dynamically obfuscate mailto links.
-Author: Matt DeClaire
+Plugin URI: http://wordpress.org/extend/plugins/makesafe
+Description: Obfuscates email addresses.
 Version: 1.0
+Author: Loud Dog
+Author URI: http://www.louddog.com
 */
 
 if (!class_exists("LoudDog_MakeSafe")) {
